@@ -1,2 +1,2 @@
 # phpTerminal
-a PHP Terminal WEb Applicaion
+a PHP Terminal Web Applicaion
